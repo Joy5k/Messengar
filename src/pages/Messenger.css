@@ -1,0 +1,9 @@
+.Grid{
+
+}
+@media screen and (max-width:768x) {
+ .smHide{
+    display:none;
+    background: red;
+ }   
+}
